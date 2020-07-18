@@ -11,3 +11,16 @@ C:\Users\rptlonfire\source\repos\Green vs Red Assignment\Green vs Red Assignment
 C:\Users\rptlonfire\source\repos\Green vs Red Assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.dll
 C:\Users\rptlonfire\source\repos\Green vs Red Assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.pdb
 C:\Users\rptlonfire\source\repos\Green vs Red Assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.genruntimeconfig.cache
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\bin\Debug\netcoreapp3.1\Green vs Red Assignment.exe
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\bin\Debug\netcoreapp3.1\Green vs Red Assignment.deps.json
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\bin\Debug\netcoreapp3.1\Green vs Red Assignment.runtimeconfig.json
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\bin\Debug\netcoreapp3.1\Green vs Red Assignment.runtimeconfig.dev.json
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\bin\Debug\netcoreapp3.1\Green vs Red Assignment.dll
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\bin\Debug\netcoreapp3.1\Green vs Red Assignment.pdb
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.csprojAssemblyReference.cache
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.csproj.CoreCompileInputs.cache
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.AssemblyInfoInputs.cache
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.AssemblyInfo.cs
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.dll
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.pdb
+C:\Users\rptlonfire\source\repos\Green vs Red Assignment\green-vs-red-assignment\Green vs Red Assignment\obj\Debug\netcoreapp3.1\Green vs Red Assignment.genruntimeconfig.cache
