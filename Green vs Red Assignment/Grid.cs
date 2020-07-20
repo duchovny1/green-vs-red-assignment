@@ -7,7 +7,8 @@
     using System;
     using System.Linq;
     using System.Collections.Generic;
-    public class Grid
+
+    internal class Grid
     {
         // i was thinking to make class Cell and make Cell[][], instead of char[][]
         // but in this particular case i dont think its neccessary
@@ -16,16 +17,16 @@
         private IWriter writer;
 
         // the key is coordinates, value is change that needs to be applied on the next turn
-        static Dictionary<string, Color> ChangesTracker = new Dictionary<string, Color>();
+        private static Dictionary<string, Color> ChangesTracker = new Dictionary<string, Color>();
 
         // if a green cell is surrounded by some ot these number of green cells
         // we are allowed to change the cell
-        static int[] availableSurroundingsCountGreenCells = new int[]
+        private int[] availableSurroundingsCountGreenCells = new int[]
            {
                 0, 1, 4, 5, 7, 8
            };
 
-        static int[] availableSurroundingsCountRedCells = new int[]
+        private int[] availableSurroundingsCountRedCells = new int[]
             {
                 3, 6
             };
@@ -59,7 +60,7 @@
             for (int i = 0; i < this.Turns; i++)
             {
                 // on every turn we're checking if all elements are equal to zero
-                bool result = CheckIfAllElementsAreZeros();
+                bool result = AreAllElementsEqualToZero();
 
                 // if result is true, then desired cell wont be changing anymore and we exit the program
                 if (result)
@@ -76,7 +77,7 @@
             this.PrintResult();
         }
 
-        private bool CheckIfAllElementsAreZeros()
+        private bool AreAllElementsEqualToZero()
         {
             char firstElement = grid[0][0];
 
